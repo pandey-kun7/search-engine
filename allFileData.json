@@ -1,791 +1,3098 @@
 [
-  [
-    "Cat_In_The_Wall.txt",
-    {
-      "13": 1,
-      "totalWords": 443,
-      "howd": 1,
-      "he": 5,
-      "get": 2,
-      "in": 9,
-      "there": 5,
-      "said": 6,
-      "amy": 3,
-      "peering": 1,
-      "into": 2,
-      "the": 26,
-      "opening": 2,
-      "basement": 1,
-      "wall": 3,
-      "with": 5,
-      "her": 11,
-      "hands": 1,
-      "cupped": 1,
-      "around": 2,
-      "eyesgot": 1,
-      "me": 2,
-      "i": 12,
-      "taking": 1,
-      "a": 12,
-      "look": 1,
-      "barney": 1,
-      "our": 1,
-      "18pound": 1,
-      "maine": 1,
-      "coon": 1,
-      "peered": 1,
-      "up": 2,
-      "at": 3,
-      "his": 4,
-      "yellow": 1,
-      "eyes": 1,
-      "cat": 2,
-      "had": 5,
-      "squeezed": 1,
-      "massive": 1,
-      "frame": 1,
-      "through": 1,
-      "an": 3,
-      "that": 4,
-      "animal": 1,
-      "half": 2,
-      "size": 1,
-      "would": 1,
-      "have": 1,
-      "trouble": 1,
-      "was": 9,
-      "trapped": 1,
-      "what": 2,
-      "are": 1,
-      "we": 5,
-      "going": 2,
-      "to": 8,
-      "do": 1,
-      "cant": 1,
-      "just": 4,
-      "leave": 2,
-      "him": 4,
-      "": 3,
-      "metallic": 1,
-      "aroma": 1,
-      "scent": 1,
-      "of": 8,
-      "panic": 1,
-      "perfumed": 1,
-      "damp": 1,
-      "cellar": 1,
-      "air": 1,
-      "she": 5,
-      "right": 2,
-      "couldnt": 2,
-      "but": 2,
-      "wouldnt": 1,
-      "out": 2,
-      "without": 1,
-      "tearing": 1,
-      "down": 2,
-      "and": 7,
-      "were": 3,
-      "only": 2,
-      "summer": 1,
-      "tenantsthe": 1,
-      "let": 1,
-      "mournful": 1,
-      "meow": 1,
-      "barneys": 1,
-      "die": 1,
-      "cried": 1,
-      "so": 1,
-      "brushed": 1,
-      "tears": 1,
-      "away": 1,
-      "from": 5,
-      "little": 1,
-      "cheeks": 1,
-      "grabbed": 1,
-      "hammer": 1,
-      "toolbox": 1,
-      "outside": 1,
-      "funeral": 1,
-      "home": 1,
-      "heard": 1,
-      "boy": 1,
-      "say": 1,
-      "fallen": 1,
-      "off": 1,
-      "back": 1,
-      "boyfriends": 1,
-      "motorcycle": 1,
-      "broken": 1,
-      "neck": 1,
-      "never": 1,
-      "knew": 1,
-      "hit": 1,
-      "dead": 1,
-      "girl": 1,
-      "been": 1,
-      "junior": 1,
-      "high": 1,
-      "schoolthe": 1,
-      "line": 1,
-      "see": 1,
-      "snaked": 1,
-      "building": 1,
-      "boys": 1,
-      "long": 1,
-      "hair": 1,
-      "wearing": 1,
-      "ties": 1,
-      "theyd": 1,
-      "borrowed": 1,
-      "their": 1,
-      "fathers": 1,
-      "girls": 1,
-      "thick": 1,
-      "blue": 1,
-      "eyeshadow": 1,
-      "smoked": 1,
-      "cigarettes": 1,
-      "parking": 1,
-      "lot": 1,
-      "someone": 1,
-      "passed": 1,
-      "bottle": 1,
-      "jack": 1,
-      "no": 2,
-      "adults": 1,
-      "very": 2,
-      "old": 1,
-      "kidsshe": 1,
-      "almost": 1,
-      "looked": 1,
-      "like": 2,
-      "sleeping": 1,
-      "except": 1,
-      "too": 1,
-      "still": 1,
-      "puffiness": 1,
-      "face": 1,
-      "didnt": 1,
-      "seem": 1,
-      "quite": 1,
-      "they": 1,
-      "dressed": 1,
-      "for": 3,
-      "prom": 1,
-      "crinoline": 1,
-      "sleeves": 1,
-      "gown": 1,
-      "poofs": 1,
-      "pink": 1,
-      "cotton": 1,
-      "candy": 1,
-      "some": 1,
-      "kids": 3,
-      "prayed": 1,
-      "stared": 1,
-      "roses": 1,
-      "corsage": 1,
-      "come": 1,
-      "on": 2,
-      "its": 1,
-      "starting": 2,
-      "greg": 3,
-      "my": 3,
-      "neighbor": 1,
-      "hollered": 1,
-      "sidewalk": 1,
-      "whats": 1,
-      "behind": 1,
-      "groups": 1,
-      "hurried": 1,
-      "street": 1,
-      "wed": 1,
-      "moved": 1,
-      "neighborhood": 1,
-      "weeks": 1,
-      "before": 1,
-      "shy": 1,
-      "bookworm": 1,
-      "waiting": 1,
-      "school": 1,
-      "start": 1,
-      "kid": 1,
-      "id": 1,
-      "metthe": 1,
-      "magic": 1,
-      "show": 1,
-      "exasperated": 1,
-      "mr": 3,
-      "hales": 2,
-      "houseat": 1,
-      "end": 1,
-      "dirt": 1,
-      "driveway": 1,
-      "rows": 1,
-      "seated": 1,
-      "grasswhitehaired": 1,
-      "thin": 1,
-      "hale": 2,
-      "wore": 1,
-      "black": 1,
-      "tophat": 1,
-      "tails": 1,
-      "hand": 2,
-      "gripped": 1,
-      "wand": 1,
-      "producing": 1,
-      "doves": 1,
-      "urn": 1,
-      "asked": 1,
-      "volunteer": 1,
-      "be": 1,
-      "sawed": 1,
-      "raised": 1,
-      "one": 2,
-      "breathedjust": 1,
-      "relax": 1,
-      "whispered": 1,
-      "theres": 1,
-      "nothing": 1,
-      "it": 1,
-      "got": 1,
-      "box": 1,
-      "held": 1,
-      "breatha": 1,
-      "collective": 1,
-      "gasp": 1,
-      "went": 1,
-      "when": 1,
-      "emerged": 1,
-      "piece": 1,
-      "star": 1
+  {
+    "13": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "filename": "Cat_In_The_Wall.txt",
+    "totalVocab": 149,
+    "howd": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "he": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "get": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "in": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "there": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "said": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "amy": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "peering": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "into": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "the": {
+      "frequency": 10,
+      "tf": 0.06666666666666667
+    },
+    "opening": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "basement": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "wall": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "with": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "her": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "hands": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cupped": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "around": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "eyesgot": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "me": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "i": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "taking": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "a": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "look": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "barney": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "our": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "18pound": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "maine": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "coon": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "peered": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "up": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "at": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "his": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "yellow": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "eyes": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cat": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "had": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "squeezed": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "massive": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "frame": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "through": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "an": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "that": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "animal": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "half": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "size": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "would": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "have": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "trouble": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "was": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "trapped": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "what": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "are": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "we": {
+      "frequency": 5,
+      "tf": 0.03333333333333333
+    },
+    "going": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "to": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "do": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cant": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "just": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "leave": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "him": {
+      "frequency": 3,
+      "tf": 0.02
+    },
+    "": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "metallic": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "aroma": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "scent": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "of": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "panic": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "perfumed": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "damp": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cellar": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "air": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "she": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "right": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "couldnt": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "but": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "wouldnt": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "out": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "without": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "tearing": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "down": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "and": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "were": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "only": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "summer": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "tenantsthe": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "let": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "mournful": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "meow": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "barneys": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "die": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cried": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "so": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "brushed": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "tears": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "away": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "from": {
+      "frequency": 2,
+      "tf": 0.013333333333333334
+    },
+    "little": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "cheeks": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "grabbed": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "hammer": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "toolbox": {
+      "frequency": 1,
+      "tf": 0.006666666666666667
+    },
+    "outside": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "funeral": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "home": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "heard": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "say": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "fallen": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "off": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "back": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boyfriends": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "motorcycle": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "broken": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neck": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "never": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "knew": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hit": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dead": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "girl": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "been": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "junior": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "high": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "schoolthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "line": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "see": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "snaked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "building": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boys": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "long": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hair": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wearing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "ties": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "theyd": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "borrowed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "their": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "fathers": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "girls": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "thick": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "blue": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "eyeshadow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "smoked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cigarettes": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "parking": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "lot": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "someone": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "passed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "bottle": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "jack": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "no": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "adults": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "very": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "old": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kidsshe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "almost": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "looked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "like": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sleeping": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "except": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "too": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "still": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "puffiness": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "face": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "didnt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "seem": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "quite": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "they": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dressed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "for": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "prom": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "crinoline": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sleeves": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gown": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "poofs": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "pink": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cotton": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "candy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "some": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kids": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "prayed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "stared": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "roses": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "corsage": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "come": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "on": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "its": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "starting": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "greg": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "my": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neighbor": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hollered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sidewalk": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "whats": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "behind": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "groups": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hurried": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "street": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "moved": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neighborhood": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "weeks": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "before": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "shy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "bookworm": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "waiting": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "school": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "start": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kid": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "id": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "metthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "magic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "show": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "exasperated": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "mr": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hales": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "houseat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "end": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dirt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "driveway": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "rows": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "seated": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "grasswhitehaired": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "thin": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hale": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wore": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "black": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tophat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tails": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hand": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gripped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wand": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "producing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "doves": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "urn": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "asked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "volunteer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "be": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sawed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "raised": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "one": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "breathedjust": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "relax": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "whispered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "theres": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "nothing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "it": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "got": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "box": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "held": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "breatha": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "collective": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gasp": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "went": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "when": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "emerged": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "piece": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "star": {
+      "frequency": 0,
+      "tf": 0
     }
-  ],
-  [
-    "Dear_Girl.txt",
-    {
-      "13": 1,
-      "totalWords": 443,
-      "howd": 1,
-      "he": 5,
-      "get": 2,
-      "in": 9,
-      "there": 5,
-      "said": 6,
-      "amy": 3,
-      "peering": 1,
-      "into": 2,
-      "the": 26,
-      "opening": 2,
-      "basement": 1,
-      "wall": 3,
-      "with": 5,
-      "her": 11,
-      "hands": 1,
-      "cupped": 1,
-      "around": 2,
-      "eyesgot": 1,
-      "me": 2,
-      "i": 12,
-      "taking": 1,
-      "a": 12,
-      "look": 1,
-      "barney": 1,
-      "our": 1,
-      "18pound": 1,
-      "maine": 1,
-      "coon": 1,
-      "peered": 1,
-      "up": 2,
-      "at": 3,
-      "his": 4,
-      "yellow": 1,
-      "eyes": 1,
-      "cat": 2,
-      "had": 5,
-      "squeezed": 1,
-      "massive": 1,
-      "frame": 1,
-      "through": 1,
-      "an": 3,
-      "that": 4,
-      "animal": 1,
-      "half": 2,
-      "size": 1,
-      "would": 1,
-      "have": 1,
-      "trouble": 1,
-      "was": 9,
-      "trapped": 1,
-      "what": 2,
-      "are": 1,
-      "we": 5,
-      "going": 2,
-      "to": 8,
-      "do": 1,
-      "cant": 1,
-      "just": 4,
-      "leave": 2,
-      "him": 4,
-      "": 3,
-      "metallic": 1,
-      "aroma": 1,
-      "scent": 1,
-      "of": 8,
-      "panic": 1,
-      "perfumed": 1,
-      "damp": 1,
-      "cellar": 1,
-      "air": 1,
-      "she": 5,
-      "right": 2,
-      "couldnt": 2,
-      "but": 2,
-      "wouldnt": 1,
-      "out": 2,
-      "without": 1,
-      "tearing": 1,
-      "down": 2,
-      "and": 7,
-      "were": 3,
-      "only": 2,
-      "summer": 1,
-      "tenantsthe": 1,
-      "let": 1,
-      "mournful": 1,
-      "meow": 1,
-      "barneys": 1,
-      "die": 1,
-      "cried": 1,
-      "so": 1,
-      "brushed": 1,
-      "tears": 1,
-      "away": 1,
-      "from": 5,
-      "little": 1,
-      "cheeks": 1,
-      "grabbed": 1,
-      "hammer": 1,
-      "toolbox": 1,
-      "outside": 1,
-      "funeral": 1,
-      "home": 1,
-      "heard": 1,
-      "boy": 1,
-      "say": 1,
-      "fallen": 1,
-      "off": 1,
-      "back": 1,
-      "boyfriends": 1,
-      "motorcycle": 1,
-      "broken": 1,
-      "neck": 1,
-      "never": 1,
-      "knew": 1,
-      "hit": 1,
-      "dead": 1,
-      "girl": 1,
-      "been": 1,
-      "junior": 1,
-      "high": 1,
-      "schoolthe": 1,
-      "line": 1,
-      "see": 1,
-      "snaked": 1,
-      "building": 1,
-      "boys": 1,
-      "long": 1,
-      "hair": 1,
-      "wearing": 1,
-      "ties": 1,
-      "theyd": 1,
-      "borrowed": 1,
-      "their": 1,
-      "fathers": 1,
-      "girls": 1,
-      "thick": 1,
-      "blue": 1,
-      "eyeshadow": 1,
-      "smoked": 1,
-      "cigarettes": 1,
-      "parking": 1,
-      "lot": 1,
-      "someone": 1,
-      "passed": 1,
-      "bottle": 1,
-      "jack": 1,
-      "no": 2,
-      "adults": 1,
-      "very": 2,
-      "old": 1,
-      "kidsshe": 1,
-      "almost": 1,
-      "looked": 1,
-      "like": 2,
-      "sleeping": 1,
-      "except": 1,
-      "too": 1,
-      "still": 1,
-      "puffiness": 1,
-      "face": 1,
-      "didnt": 1,
-      "seem": 1,
-      "quite": 1,
-      "they": 1,
-      "dressed": 1,
-      "for": 3,
-      "prom": 1,
-      "crinoline": 1,
-      "sleeves": 1,
-      "gown": 1,
-      "poofs": 1,
-      "pink": 1,
-      "cotton": 1,
-      "candy": 1,
-      "some": 1,
-      "kids": 3,
-      "prayed": 1,
-      "stared": 1,
-      "roses": 1,
-      "corsage": 1,
-      "come": 1,
-      "on": 2,
-      "its": 1,
-      "starting": 2,
-      "greg": 3,
-      "my": 3,
-      "neighbor": 1,
-      "hollered": 1,
-      "sidewalk": 1,
-      "whats": 1,
-      "behind": 1,
-      "groups": 1,
-      "hurried": 1,
-      "street": 1,
-      "wed": 1,
-      "moved": 1,
-      "neighborhood": 1,
-      "weeks": 1,
-      "before": 1,
-      "shy": 1,
-      "bookworm": 1,
-      "waiting": 1,
-      "school": 1,
-      "start": 1,
-      "kid": 1,
-      "id": 1,
-      "metthe": 1,
-      "magic": 1,
-      "show": 1,
-      "exasperated": 1,
-      "mr": 3,
-      "hales": 2,
-      "houseat": 1,
-      "end": 1,
-      "dirt": 1,
-      "driveway": 1,
-      "rows": 1,
-      "seated": 1,
-      "grasswhitehaired": 1,
-      "thin": 1,
-      "hale": 2,
-      "wore": 1,
-      "black": 1,
-      "tophat": 1,
-      "tails": 1,
-      "hand": 2,
-      "gripped": 1,
-      "wand": 1,
-      "producing": 1,
-      "doves": 1,
-      "urn": 1,
-      "asked": 1,
-      "volunteer": 1,
-      "be": 1,
-      "sawed": 1,
-      "raised": 1,
-      "one": 2,
-      "breathedjust": 1,
-      "relax": 1,
-      "whispered": 1,
-      "theres": 1,
-      "nothing": 1,
-      "it": 1,
-      "got": 1,
-      "box": 1,
-      "held": 1,
-      "breatha": 1,
-      "collective": 1,
-      "gasp": 1,
-      "went": 1,
-      "when": 1,
-      "emerged": 1,
-      "piece": 1,
-      "star": 1
+  },
+  {
+    "13": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "filename": "Dear_Girl.txt",
+    "totalVocab": 148,
+    "howd": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "he": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "get": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "in": {
+      "frequency": 3,
+      "tf": 0.020134228187919462
+    },
+    "there": {
+      "frequency": 3,
+      "tf": 0.020134228187919462
+    },
+    "said": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "amy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "peering": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "into": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "the": {
+      "frequency": 8,
+      "tf": 0.053691275167785234
+    },
+    "opening": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "basement": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wall": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "with": {
+      "frequency": 2,
+      "tf": 0.013422818791946308
+    },
+    "her": {
+      "frequency": 8,
+      "tf": 0.053691275167785234
+    },
+    "hands": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cupped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "around": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "eyesgot": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "me": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "i": {
+      "frequency": 4,
+      "tf": 0.026845637583892617
+    },
+    "taking": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "a": {
+      "frequency": 4,
+      "tf": 0.026845637583892617
+    },
+    "look": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "barney": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "our": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "18pound": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "maine": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "coon": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "peered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "up": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "at": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "his": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "yellow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "eyes": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "had": {
+      "frequency": 3,
+      "tf": 0.020134228187919462
+    },
+    "squeezed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "massive": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "frame": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "through": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "an": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "that": {
+      "frequency": 3,
+      "tf": 0.020134228187919462
+    },
+    "animal": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "half": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "size": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "would": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "have": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "trouble": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "was": {
+      "frequency": 4,
+      "tf": 0.026845637583892617
+    },
+    "trapped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "what": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "are": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "we": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "going": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "to": {
+      "frequency": 2,
+      "tf": 0.013422818791946308
+    },
+    "do": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cant": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "just": {
+      "frequency": 2,
+      "tf": 0.013422818791946308
+    },
+    "leave": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "him": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "metallic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "aroma": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "scent": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "of": {
+      "frequency": 4,
+      "tf": 0.026845637583892617
+    },
+    "panic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "perfumed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "damp": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cellar": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "air": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "she": {
+      "frequency": 4,
+      "tf": 0.026845637583892617
+    },
+    "right": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "couldnt": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "but": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "wouldnt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "out": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "without": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tearing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "down": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "and": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "were": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "only": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "summer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tenantsthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "let": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "mournful": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "meow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "barneys": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "die": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cried": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "so": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "brushed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tears": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "away": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "from": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "little": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cheeks": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "grabbed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hammer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "toolbox": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "outside": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "funeral": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "home": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "heard": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "boy": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "say": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "fallen": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "off": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "back": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "boyfriends": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "motorcycle": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "broken": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "neck": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "never": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "knew": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "hit": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "dead": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "girl": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "been": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "junior": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "high": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "schoolthe": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "line": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "see": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "snaked": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "building": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "boys": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "long": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "hair": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "wearing": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "ties": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "theyd": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "borrowed": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "their": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "fathers": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "girls": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "thick": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "blue": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "eyeshadow": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "smoked": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "cigarettes": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "parking": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "lot": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "someone": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "passed": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "bottle": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "jack": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "no": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "adults": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "very": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "old": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "kidsshe": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "almost": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "looked": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "like": {
+      "frequency": 2,
+      "tf": 0.013422818791946308
+    },
+    "sleeping": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "except": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "too": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "still": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "puffiness": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "face": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "didnt": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "seem": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "quite": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "they": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "dressed": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "for": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "prom": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "crinoline": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "sleeves": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "gown": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "poofs": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "pink": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "cotton": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "candy": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "some": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "kids": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "prayed": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "stared": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "roses": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "corsage": {
+      "frequency": 1,
+      "tf": 0.006711409395973154
+    },
+    "come": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "on": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "its": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "starting": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "greg": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "my": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neighbor": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hollered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sidewalk": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "whats": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "behind": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "groups": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hurried": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "street": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "moved": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neighborhood": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "weeks": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "before": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "shy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "bookworm": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "waiting": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "school": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "start": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kid": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "id": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "metthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "magic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "show": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "exasperated": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "mr": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hales": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "houseat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "end": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dirt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "driveway": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "rows": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "seated": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "grasswhitehaired": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "thin": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hale": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wore": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "black": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tophat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tails": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hand": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gripped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wand": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "producing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "doves": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "urn": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "asked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "volunteer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "be": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sawed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "raised": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "one": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "breathedjust": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "relax": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "whispered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "theres": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "nothing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "it": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "got": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "box": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "held": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "breatha": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "collective": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gasp": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "went": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "when": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "emerged": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "piece": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "star": {
+      "frequency": 0,
+      "tf": 0
     }
-  ],
-  [
-    "Magic_Show.txt",
-    {
-      "13": 1,
-      "totalWords": 443,
-      "howd": 1,
-      "he": 5,
-      "get": 2,
-      "in": 9,
-      "there": 5,
-      "said": 6,
-      "amy": 3,
-      "peering": 1,
-      "into": 2,
-      "the": 26,
-      "opening": 2,
-      "basement": 1,
-      "wall": 3,
-      "with": 5,
-      "her": 11,
-      "hands": 1,
-      "cupped": 1,
-      "around": 2,
-      "eyesgot": 1,
-      "me": 2,
-      "i": 12,
-      "taking": 1,
-      "a": 12,
-      "look": 1,
-      "barney": 1,
-      "our": 1,
-      "18pound": 1,
-      "maine": 1,
-      "coon": 1,
-      "peered": 1,
-      "up": 2,
-      "at": 3,
-      "his": 4,
-      "yellow": 1,
-      "eyes": 1,
-      "cat": 2,
-      "had": 5,
-      "squeezed": 1,
-      "massive": 1,
-      "frame": 1,
-      "through": 1,
-      "an": 3,
-      "that": 4,
-      "animal": 1,
-      "half": 2,
-      "size": 1,
-      "would": 1,
-      "have": 1,
-      "trouble": 1,
-      "was": 9,
-      "trapped": 1,
-      "what": 2,
-      "are": 1,
-      "we": 5,
-      "going": 2,
-      "to": 8,
-      "do": 1,
-      "cant": 1,
-      "just": 4,
-      "leave": 2,
-      "him": 4,
-      "": 3,
-      "metallic": 1,
-      "aroma": 1,
-      "scent": 1,
-      "of": 8,
-      "panic": 1,
-      "perfumed": 1,
-      "damp": 1,
-      "cellar": 1,
-      "air": 1,
-      "she": 5,
-      "right": 2,
-      "couldnt": 2,
-      "but": 2,
-      "wouldnt": 1,
-      "out": 2,
-      "without": 1,
-      "tearing": 1,
-      "down": 2,
-      "and": 7,
-      "were": 3,
-      "only": 2,
-      "summer": 1,
-      "tenantsthe": 1,
-      "let": 1,
-      "mournful": 1,
-      "meow": 1,
-      "barneys": 1,
-      "die": 1,
-      "cried": 1,
-      "so": 1,
-      "brushed": 1,
-      "tears": 1,
-      "away": 1,
-      "from": 5,
-      "little": 1,
-      "cheeks": 1,
-      "grabbed": 1,
-      "hammer": 1,
-      "toolbox": 1,
-      "outside": 1,
-      "funeral": 1,
-      "home": 1,
-      "heard": 1,
-      "boy": 1,
-      "say": 1,
-      "fallen": 1,
-      "off": 1,
-      "back": 1,
-      "boyfriends": 1,
-      "motorcycle": 1,
-      "broken": 1,
-      "neck": 1,
-      "never": 1,
-      "knew": 1,
-      "hit": 1,
-      "dead": 1,
-      "girl": 1,
-      "been": 1,
-      "junior": 1,
-      "high": 1,
-      "schoolthe": 1,
-      "line": 1,
-      "see": 1,
-      "snaked": 1,
-      "building": 1,
-      "boys": 1,
-      "long": 1,
-      "hair": 1,
-      "wearing": 1,
-      "ties": 1,
-      "theyd": 1,
-      "borrowed": 1,
-      "their": 1,
-      "fathers": 1,
-      "girls": 1,
-      "thick": 1,
-      "blue": 1,
-      "eyeshadow": 1,
-      "smoked": 1,
-      "cigarettes": 1,
-      "parking": 1,
-      "lot": 1,
-      "someone": 1,
-      "passed": 1,
-      "bottle": 1,
-      "jack": 1,
-      "no": 2,
-      "adults": 1,
-      "very": 2,
-      "old": 1,
-      "kidsshe": 1,
-      "almost": 1,
-      "looked": 1,
-      "like": 2,
-      "sleeping": 1,
-      "except": 1,
-      "too": 1,
-      "still": 1,
-      "puffiness": 1,
-      "face": 1,
-      "didnt": 1,
-      "seem": 1,
-      "quite": 1,
-      "they": 1,
-      "dressed": 1,
-      "for": 3,
-      "prom": 1,
-      "crinoline": 1,
-      "sleeves": 1,
-      "gown": 1,
-      "poofs": 1,
-      "pink": 1,
-      "cotton": 1,
-      "candy": 1,
-      "some": 1,
-      "kids": 3,
-      "prayed": 1,
-      "stared": 1,
-      "roses": 1,
-      "corsage": 1,
-      "come": 1,
-      "on": 2,
-      "its": 1,
-      "starting": 2,
-      "greg": 3,
-      "my": 3,
-      "neighbor": 1,
-      "hollered": 1,
-      "sidewalk": 1,
-      "whats": 1,
-      "behind": 1,
-      "groups": 1,
-      "hurried": 1,
-      "street": 1,
-      "wed": 1,
-      "moved": 1,
-      "neighborhood": 1,
-      "weeks": 1,
-      "before": 1,
-      "shy": 1,
-      "bookworm": 1,
-      "waiting": 1,
-      "school": 1,
-      "start": 1,
-      "kid": 1,
-      "id": 1,
-      "metthe": 1,
-      "magic": 1,
-      "show": 1,
-      "exasperated": 1,
-      "mr": 3,
-      "hales": 2,
-      "houseat": 1,
-      "end": 1,
-      "dirt": 1,
-      "driveway": 1,
-      "rows": 1,
-      "seated": 1,
-      "grasswhitehaired": 1,
-      "thin": 1,
-      "hale": 2,
-      "wore": 1,
-      "black": 1,
-      "tophat": 1,
-      "tails": 1,
-      "hand": 2,
-      "gripped": 1,
-      "wand": 1,
-      "producing": 1,
-      "doves": 1,
-      "urn": 1,
-      "asked": 1,
-      "volunteer": 1,
-      "be": 1,
-      "sawed": 1,
-      "raised": 1,
-      "one": 2,
-      "breathedjust": 1,
-      "relax": 1,
-      "whispered": 1,
-      "theres": 1,
-      "nothing": 1,
-      "it": 1,
-      "got": 1,
-      "box": 1,
-      "held": 1,
-      "breatha": 1,
-      "collective": 1,
-      "gasp": 1,
-      "went": 1,
-      "when": 1,
-      "emerged": 1,
-      "piece": 1,
-      "star": 1
+  },
+  {
+    "13": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "filename": "Magic_Show.txt",
+    "totalVocab": 146,
+    "howd": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "he": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "get": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "in": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "there": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "said": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "amy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "peering": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "into": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "the": {
+      "frequency": 8,
+      "tf": 0.05442176870748299
+    },
+    "opening": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "basement": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wall": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "with": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "her": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hands": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cupped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "around": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "eyesgot": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "me": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "i": {
+      "frequency": 6,
+      "tf": 0.04081632653061224
+    },
+    "taking": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "a": {
+      "frequency": 5,
+      "tf": 0.034013605442176874
+    },
+    "look": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "barney": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "our": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "18pound": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "maine": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "coon": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "peered": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "up": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "at": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "his": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "yellow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "eyes": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cat": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "had": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "squeezed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "massive": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "frame": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "through": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "an": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "that": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "animal": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "half": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "size": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "would": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "have": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "trouble": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "was": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "trapped": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "what": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "are": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "we": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "going": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "to": {
+      "frequency": 4,
+      "tf": 0.027210884353741496
+    },
+    "do": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cant": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "just": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "leave": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "him": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "metallic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "aroma": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "scent": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "of": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "panic": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "perfumed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "damp": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cellar": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "air": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "she": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "right": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "couldnt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "but": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wouldnt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "out": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "without": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tearing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "down": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "and": {
+      "frequency": 4,
+      "tf": 0.027210884353741496
+    },
+    "were": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "only": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "summer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tenantsthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "let": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "mournful": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "meow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "barneys": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "die": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cried": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "so": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "brushed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "tears": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "away": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "from": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "little": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cheeks": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "grabbed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hammer": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "toolbox": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "outside": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "funeral": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "home": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "heard": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "say": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "fallen": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "off": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "back": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boyfriends": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "motorcycle": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "broken": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "neck": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "never": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "knew": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hit": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dead": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "girl": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "been": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "junior": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "high": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "schoolthe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "line": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "see": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "snaked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "building": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "boys": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "long": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "hair": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "wearing": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "ties": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "theyd": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "borrowed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "their": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "fathers": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "girls": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "thick": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "blue": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "eyeshadow": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "smoked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cigarettes": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "parking": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "lot": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "someone": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "passed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "bottle": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "jack": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "no": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "adults": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "very": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "old": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kidsshe": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "almost": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "looked": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "like": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sleeping": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "except": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "too": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "still": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "puffiness": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "face": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "didnt": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "seem": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "quite": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "they": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "dressed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "for": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "prom": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "crinoline": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "sleeves": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "gown": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "poofs": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "pink": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "cotton": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "candy": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "some": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "kids": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "prayed": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "stared": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "roses": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "corsage": {
+      "frequency": 0,
+      "tf": 0
+    },
+    "come": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "on": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "its": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "starting": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "greg": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "my": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "neighbor": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "hollered": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "sidewalk": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "whats": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "behind": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "groups": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "hurried": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "street": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "wed": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "moved": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "neighborhood": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "weeks": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "before": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "shy": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "bookworm": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "waiting": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "school": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "start": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "kid": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "id": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "metthe": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "magic": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "show": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "exasperated": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "mr": {
+      "frequency": 3,
+      "tf": 0.02040816326530612
+    },
+    "hales": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "houseat": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "end": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "dirt": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "driveway": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "rows": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "seated": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "grasswhitehaired": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "thin": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "hale": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "wore": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "black": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "tophat": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "tails": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "hand": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "gripped": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "wand": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "producing": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "doves": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "urn": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "asked": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "volunteer": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "be": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "sawed": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "raised": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "one": {
+      "frequency": 2,
+      "tf": 0.013605442176870748
+    },
+    "breathedjust": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "relax": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "whispered": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "theres": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "nothing": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "it": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "got": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "box": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "held": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "breatha": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "collective": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "gasp": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "went": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "when": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "emerged": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "piece": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
+    },
+    "star": {
+      "frequency": 1,
+      "tf": 0.006802721088435374
     }
-  ]
+  }
 ]
