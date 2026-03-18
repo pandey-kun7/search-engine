@@ -1,7 +1,7 @@
 import fs from "fs"
 import Clean from "./stemming.js";
 
-export default async function makeItf(filename){
+export default async function giveTF(filename){
     const allWordsRaw = String(fs.readFileSync(`./Words.txt`));
     const allWordsCleaning = allWordsRaw.split("\n");
     const allWordsCleanedSet = new Set();

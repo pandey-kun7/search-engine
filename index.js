@@ -1,6 +1,6 @@
 import fs from "fs"
 import Clean from "./stemming.js";
-import makeItf from "./tfScorer.js";
+import giveTF from "./tfScorer.js";
 
 const Word_Set = new Set();
 
@@ -54,5 +54,5 @@ fs.writeFileSync("./Words.txt",content,{
 })
 
 for(const file of files){
-    makeItf(file);
+    giveTF(file);
 }
