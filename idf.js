@@ -7,7 +7,7 @@ export default function giveIDF(){
     for(const file of Object.values(ALLFILEDATA)){
         docsInCorpus.push(file["filename"]);
     }
-    console.log(docsInCorpus)
+    // console.log(docsInCorpus)
     const wordInCorpusInfo = {};
     for(const file of Object.values(ALLFILEDATA)){
         for(const word in file){
@@ -30,9 +30,9 @@ export default function giveIDF(){
     for(const file of Object.values(ALLFILEDATA)){
         for(const word in file){
             if(file[word]["frequency"]>0 && word!=='filename' && word!=='totalVocab'){
-                console.log(Math.log(((docsInCorpus.length)+1)/(wordInCorpusInfo[word]["len"]+1)))
+                // console.log(Math.log(((docsInCorpus.length)+1)/(wordInCorpusInfo[word]["len"]+1)))
                 file[word]["idf"] = String(Math.log(((docsInCorpus.length)+1)/(wordInCorpusInfo[word]["len"]+1)));
-                console.log(file[word]["idf"])
+                // console.log(file[word]["idf"])
                 // break;
                 file[word]["weight"] = String(Number(file[word]["tf"])*Number(file[word]["idf"]));
             }
@@ -41,4 +41,4 @@ export default function giveIDF(){
     fs.writeFileSync("./allFileData.json",JSON.stringify(ALLFILEDATA,null,2));
 }
 
-giveIDF();
+// giveIDF();

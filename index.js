@@ -1,6 +1,8 @@
 import fs from "fs"
 import Clean from "./stemming.js";
 import giveTF from "./tfScorer.js";
+import giveIDF from "./idf.js";
+import query from "./Query.js";
 
 const Word_Set = new Set();
 
@@ -56,3 +58,6 @@ fs.writeFileSync("./Words.txt",content,{
 for(const file of files){
     giveTF(file);
 }
+
+giveIDF();
+query();

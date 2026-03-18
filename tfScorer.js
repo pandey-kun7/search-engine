@@ -43,7 +43,7 @@ export default async function giveTF(filename){
             tf: count/(fileDataObject["totalVocab"]+1)
         } ;
     }
-    console.log(fileDataObject)
+    // console.log(fileDataObject)
 
     allFileData.push(fileDataObject);
 
